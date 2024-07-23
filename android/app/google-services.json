@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "138926593882",
+    "firebase_url": "https://sironi1-default-rtdb.firebaseio.com",
+    "project_id": "sironi1",
+    "storage_bucket": "sironi1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138926593882:android:e6dad4fada48d0c9500563",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDta49rDF04REQMEkprJRiHSO2hYiuXyAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138926593882:android:9917373934c448ce500563",
+        "android_client_info": {
+          "package_name": "com.example.sironi1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDta49rDF04REQMEkprJRiHSO2hYiuXyAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
